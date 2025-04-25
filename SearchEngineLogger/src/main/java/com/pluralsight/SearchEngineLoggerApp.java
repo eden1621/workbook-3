@@ -17,7 +17,7 @@ public class SearchEngineLoggerApp {
 
         //when the application launches, make an entry in the log
         logActions("launch");
-        
+
 
         //create a variable that will keep us looping the question for the user
         //until they decide to quite
